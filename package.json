@@ -1,0 +1,15 @@
+{
+  "name": "arduino-sprint",
+  "version": "1.0.0",
+  "description": "arduino ultrasound theremin with grarphics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cole Granof",
+  "license": "MIT",
+  "dependencies": {
+    "serialport": "^9.0.7",
+    "ws": "^7.4.3"
+  }
+}
